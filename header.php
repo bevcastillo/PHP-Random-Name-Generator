@@ -18,7 +18,6 @@
   <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'> 
 </head>
 <body>
-    <?php require_once 'navbar.php'; ?>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <img src="images/BBNames(1).png" alt="Logo" style="width:30px">
       <a class="navbar-brand" href="index.php">BBNames</a>
